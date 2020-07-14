@@ -48,7 +48,7 @@
 
 # :rocket: Features
 
- * 🍕 This is a simple clock built with JavaScript.
+ * 🍕 This is a simple CSS controller built with JavaScript.
 
 
 
